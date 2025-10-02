@@ -156,12 +156,12 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+## Contribution Fish Animation
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityadab10/Adityadab10/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adityadab10/Adityadab10/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Adityadab10/Adityadab10/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adityadab10/Adityadab10/output/github-contribution-grid-fish-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adityadab10/Adityadab10/output/github-contribution-grid-fish.svg">
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Adityadab10/Adityadab10/output/github-contribution-grid-fish.svg">
   </picture>
 </div>
 
