@@ -13,10 +13,10 @@
 ## 🙋‍♂️ About Me
 
 - Currently building **innovative software solutions** and exploring **modern tech stacks**
-- Deep diving into **Cloud Architecture, DevOps, and Microservices**
+- Deep diving into **Cloud Architecture, DevOps, and Springboot**
 - Open to collaborate on **impactful open-source projects** and **startup ideas**
 - Let's talk about **Software Engineering, System Design, and Algorithms**
-- Reach out: **adityadab10@gmail.com**
+- Reach out: **adityadab27@gmail.com**
 - Fun fact: **I debug faster after midnight!**
 
 ---
